@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cf8ce6e-9d08-4154-941e-fcb8050050dc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\maven\repository" />
+        <option name="mavenHome" value="D:/tools/maven" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\tools\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2A6oXDlNl1YICQkw1dhZFi1TDpe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/黑马学习/阶段五/reggie/reggie/src/main/java/pers/zhou/reggle/controller&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3acf5c7b740d6e2538f3a7b88cf069b3&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pers.zhou.reggle.service" />
+      <recent name="pers.zhou.reggle.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\黑马学习\阶段五\reggie\reggie\src\main\java\pers\zhou\reggle\controller" />
+      <recent name="E:\黑马学习\阶段五\reggie\reggie\src\main\java\pers\zhou\reggle\service\impl" />
+      <recent name="E:\黑马学习\阶段五\reggie\reggie\src\main\java\pers\zhou\reggle\service" />
+      <recent name="E:\黑马学习\阶段五\reggie\reggie\src\main\java\pers\zhou\reggle\mapper" />
+      <recent name="E:\黑马学习\阶段五\reggie\reggie\src\main\java\pers\zhou\reggle\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\黑马学习\阶段五\reggie\reggie\src\main\java\pers\zhou\reggle\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.zhou.reggle.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.zhou.reggle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cf8ce6e-9d08-4154-941e-fcb8050050dc" name="Changes" comment="" />
+      <created>1654339435753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654339435753</updated>
+      <workItem from="1654339437585" duration="18059000" />
+      <workItem from="1654397429553" duration="18283000" />
+      <workItem from="1654779911296" duration="5475000" />
+      <workItem from="1654915352230" duration="10883000" />
+      <workItem from="1654941801497" duration="11202000" />
+      <workItem from="1654956064115" duration="479000" />
+      <workItem from="1654956751108" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/reggie$Application.ic" NAME="Application Coverage Results" MODIFIED="1654923841038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pers.zhou.reggle.*</FILTER>
+    </SUITE>
+  </component>
+</project>
